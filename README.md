@@ -3,6 +3,7 @@
 تطبيق مكتبي متقدم تم تطويره كـ مشروع أكاديمي، يوفر مجموعة واسعة من أدوات وخوارزميات معالجة الصور والفيديو. تم بناء التطبيق باستخدام **Python** مع واجهة رسومية تفاعلية تم إنشاؤها بواسطة **Tkinter**، بينما تتم جميع عمليات المعالجة القوية عبر مكتبة **OpenCV**.
 
 <img width="1439" height="853" alt="snapshot_20250927_032342" src="https://github.com/user-attachments/assets/7056aded-6a34-421a-9162-218efebd3c90" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6bbb0aa0-331f-46c3-bff5-fac1449b1b04" />
 )
 
 ## ✨ الميزات الرئيسية
